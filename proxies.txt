@@ -1,0 +1,3 @@
+username:pass@ip:port
+
+iproyal on top!
